@@ -6,15 +6,15 @@
     },
     "repositories": [
         {
-            "dataDir": "$GAMMA_DATA",
+            "dataDir": "",
             "repository": {
-                "uid": "364cc08af8958c04d8dc4e5822171141",
+                "uid": "5de339966841d70247095f5e2fae7ac1",
                 "projectName": "java_teamcity",
                 "languages": [
                     "JAVA"
                 ],
                 "sources": {
-                    "baseDir": "$WORKSPACE",
+                    "baseDir": "",
                     "exclusions": [
                         "(?i)(test|generated|mock|thirdparty|third-party|3rd-party|3rdparty|external)"
                     ]
